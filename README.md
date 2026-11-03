@@ -6,7 +6,7 @@
 
 2. Programação Front-End
 
-[Introduction to UI and UX Design]([https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/](https://www.codecademy.com/learn/intro-to-ui-ux))
+[Introduction to UI and UX Design](https://www.codecademy.com/learn/intro-to-ui-ux)
 
 [How to Use Flex in Tailwind CSS and Justify Flex Items](https://www.freecodecamp.org/news/how-to-use-flex-in-tailwind-css-and-justify-flex-items/)
 
